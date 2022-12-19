@@ -9,7 +9,7 @@
     background-color: rgb(237, 233, 228);
 }
 
-.navbar{
+/* .navbar{
     padding: 0px 0px !important;
 }
 
@@ -19,7 +19,7 @@
     font-weight: 600;
     border-right: 1px solid;
     padding: 8px 18px !important;
-}
+} */
 
 .card-shadow{
     box-shadow: 0 2px 8px 0 rgb(0 0 0/10%);
@@ -29,7 +29,7 @@
 .category-heading{
     padding: 10px 12px;
     border-left: 6px solid #000;
-    background-color: rgb(168, 147, 147);
+    background-color: rgba(168, 147, 147, 0.112);
 
 }
 

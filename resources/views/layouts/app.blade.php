@@ -27,6 +27,7 @@
 
     <!-- css files link -->
     <link rel="stylesheet" href="{{asset('assets/css/custom.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/css/navbar.css')}}">
 
     <!-- Scripts for bootstrap-->
     @vite([ 'resources/js/app.js'])
